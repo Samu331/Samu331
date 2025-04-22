@@ -5,7 +5,7 @@
 🌍 Based in Cape Town, South Africa  
 
 🔧 Skills
-- Python, SQL, MySQL, PostgreSQL, T-SQL
+- Python, SQL, MySQL, PostgreSQL, T-SQL, MS EXCEL
 - Power BI, HTML, CSS, JavaScript
 - Data Visualization, ETL, Dashboarding
 - Microsoft Azure, Airflow
